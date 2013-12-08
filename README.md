@@ -58,13 +58,17 @@ We flashed our BeagleBoard with a specially prepared image of Ubuntu made by [Ro
 
 If you're planning to do any serious work with C# and the BeagleBoard, it's worth knowing about Ahead-of-time compliation. There is more information about that on the [Mono project's website][3].
 
-Lastly, cheers http://markable.in/editor/.
+## Lastly
+
+Cheers http://markable.in/editor/. Also check out [The making of BeagleBone Black][4] and the [BeagleBone GamingCape][5]
+
 
  [0]: http://elinux.org/Beagleboard:Ubuntu_On_BeagleBone_Black
  [1]: https://github.com/RobertCNelson
  [2]: http://www.circuidipity.com/bbb-led.html
  [3]: http://www.mono-project.com/AOT
- 
+ [4]: http://www.youtube.com/watch?v=FcqQvH41OR4
+ [5]: http://www.youtube.com/watch?v=wj1T84orbeY
  
  
  
