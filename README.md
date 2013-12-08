@@ -27,7 +27,7 @@ The only code you really need to run the demonstration is `Program.cs`, so the e
 $ cd /tmp
 $ wget https://github.com/pingfu/beagleboard-led-chaser/blob/master/Chaser/Chaser/Program.cs
 $ dmcs Program.cs
-$ sudo ./Program.cs
+$ sudo ./Program.exe
 ```
 
 That's it.
