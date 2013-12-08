@@ -60,10 +60,10 @@ If you're planning to do any serious work with C# and the BeagleBoard, it's wort
 
 Lastly, cheers http://markable.in/editor/.
 
- [0] http://elinux.org/Beagleboard:Ubuntu_On_BeagleBone_Black
- [1] https://github.com/RobertCNelson
- [2] http://www.circuidipity.com/bbb-led.html
- [3] http://www.mono-project.com/AOT
+ [0]: http://elinux.org/Beagleboard:Ubuntu_On_BeagleBone_Black
+ [1]: https://github.com/RobertCNelson
+ [2]: http://www.circuidipity.com/bbb-led.html
+ [3]: http://www.mono-project.com/AOT
  
  
  
